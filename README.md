@@ -24,7 +24,7 @@ ls
 
 ```console
 git add .
-git commit -m "added .gitignore
+git commit -m "added .gitignore"
 git push origin main
 ```
 
